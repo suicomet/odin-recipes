@@ -1,0 +1,58 @@
+body{
+    background-color: #c1e9db;
+    font-family: 'Courier New', Courier, monospace;
+    width: 800px;
+    margin: 16px auto;
+    
+}
+a{
+    text-decoration: none;
+    color: rgba(43, 255, 202, 0.753);
+    font-weight: bold;
+    
+}
+
+#title{
+    background-color: #3da9fc;
+    text-align: center;
+    color: #1c6294;
+    border: 5px solid rgb(23, 76, 221, 0.3);
+}
+ul{
+    background-color: #3da9fc;
+    color: #000811;
+    margin: auto;
+    list-style-type: none;
+    padding: 20px;
+    border: 5px solid rgb(23, 76, 221, 0.3);
+}
+
+img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 16px auto;
+    border: 5px solid rgb(23, 76, 221, 0.3);
+}
+
+
+.crop{
+    object-fit: cover;
+    height: 130px;
+}
+
+.recipes{
+    font-size: 25px;
+    background-color: rgb(53, 131, 190, 0.3);
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border: 5px solid rgb(23, 76, 221, 0.3);
+}
+
+p{
+    background-color: rgb(0, 255, 255, 0.);
+    border: 5px solid rgb(23, 76, 221, 0.3);
+    color: #020202;
+}
+
